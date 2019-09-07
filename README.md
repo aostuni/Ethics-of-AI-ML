@@ -6,6 +6,7 @@ pass
 
 ## Course Details
 - **Course**: TBD (what stuff here do I come up with?)
+- **Prerequisites**: TBD
 - **Credits**: 1
 - **Seats**: TBD
 - **Lecture Time**: TBD
@@ -14,13 +15,8 @@ pass
 - **Course Facilitator**: Anthony Ostuni
 - **Faculty Advisor**: TBD
 
-## Topics Covered
+## Topics
 pass
-
-## Grading
-pass
-
-## Schedule
 
 ## Class Format
 pass
@@ -28,8 +24,22 @@ pass
 pass
 ### Papers
 
+## Grading
+--Grades will be on the grade server
+--Statement about responsiblities, ...
+--percentage breakdown
+--grading policies for each type of assignment
+--late policy (papers)
+--Absences 
+
+
+## Schedule
+15 weeks 
+
 ## Communication
-pass
+--Email
+--Office Hours
+--Piazza / ELMS
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at [Course Related Policies](http://www.ugst.umd.edu/courserelatedpolicies.html).
