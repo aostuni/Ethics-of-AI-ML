@@ -1,11 +1,10 @@
 # Ethics in Artifical Intelligence and Machine Learning
-(put a picture here)
 
 ## Course Description
-pass
+This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns exist in the present day. During the semester's second half, we will move on to future issues.
 
 ## Course Details
-- **Course**: TBD (what stuff here do I come up with?)
+- **Course**: TBD
 - **Prerequisites**: TBD
 - **Credits**: 1
 - **Seats**: TBD
@@ -16,7 +15,7 @@ pass
 - **Faculty Advisor**: TBD
 
 ## Topics
-pass
+TBD
 
 ## Class Format
 pass
