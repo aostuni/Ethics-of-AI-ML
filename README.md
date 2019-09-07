@@ -34,7 +34,24 @@ pass
 
 
 ## Schedule
-15 weeks 
+| Week | Readings | Topic | Assignment |
+|:----:|:----:|:----:|:----:|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+| 6 | | | |
+| 7 | | | |
+| 8 | | | |
+| 9 | | | |
+| 10| | | |
+| 11| | | |
+| 12| | | |
+| 13| | | |
+| 14| | | |
+| 15| | | |
+
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
