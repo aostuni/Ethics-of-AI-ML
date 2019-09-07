@@ -1,7 +1,7 @@
-# Ethics in Artifical Intelligence and Machine Learning
-
+# Ethics of Artifical Intelligence and Machine Learning
+TODO: (change repo name to be 'of' instead of 'in')
 ## Course Description
-This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns exist in the present day. During the semester's second half, we will move on to future issues.
+This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns existing in the present day. During the semester's second half, we will move on to future issues.
 
 ## Course Details
 - **Course**: TBD
@@ -18,18 +18,29 @@ This discussion-based course will provide an introduction to the ethical issues 
 TBD
 
 ## Class Format
-pass
-### Discussions 
-pass
-### Papers
+This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings. These readings must be completed before class and used to write a response to a short-answer question. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that may be of value to the discussion. The primary assignments for the class will be papers.
+
 
 ## Grading
---Grades will be on the grade server
---Statement about responsiblities, ...
---percentage breakdown
---grading policies for each type of assignment
---late policy (papers)
---Absences 
+Grades will be maintained on the CS Department [grades server](https://grades.cs.umd.edu/).
+
+You are responsible for all material discussed during lecture, as well as readings and 
+other material posted on ELMS or Piazza outside of class.
+
+| Percentage | Title 
+|:----:|:----:|
+| 10% | Reading Short-Answer  
+| 30% | Participation 
+| 25% | Midterm Paper
+| 35% | Final Paper
+
+### Discussions 
+
+### Papers
+
+All regrade requests must be made within one week of the assignment grade being released.
+
+### Late Policy
 
 
 ## Schedule
