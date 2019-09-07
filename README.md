@@ -37,9 +37,9 @@ pass
 15 weeks 
 
 ## Communication
---Email
---Office Hours
---Piazza / ELMS
+The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
+- **Instructor**: [instructor] [at] umd.edu
+- **Anthony Ostuni**: aostuni [at] umd.edu
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at [Course Related Policies](http://www.ugst.umd.edu/courserelatedpolicies.html).
@@ -58,4 +58,5 @@ fabrication, facilitation, and plagiarism. For more information on the Code of A
 http://www.shc.umd.edu.
 
 ## Feedback
-pass
+If you have any suggestions for improving this class, don't hesitate to tell the instructor or TAs during the semester. At the end of the semester, please don't forget to provide your feedback using the campus-wide CourseEvalUM system. Your comments will help make this class better in future iterations.
+
