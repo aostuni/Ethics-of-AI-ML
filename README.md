@@ -47,7 +47,8 @@ After 24 hours, no late assignments will be accepted.
 ## Schedule
 The schedule is subject to change; students will be notified in such an
 occurrence. 
-| Week | Topic | Materials and Readings | Assignment |
+
+| Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
 | 1 | Introduction to Ethics | | |
 | 2 | Data Privacy | | |
@@ -59,7 +60,7 @@ occurrence.
 | 8 | The Future (or End) of Labor | | |
 | 9 | Consciousness and Rights | | |
 | 10| Singularity and Control | | |
-| 11| Inequality, Unequal Access, Open-Sourcing | | |
+| 11| Inequality, Unequal Access, and Open-Sourcing | | |
 | 12| Unintended Consequences | | |
 | 13| Interaction and Affection | | |
 | 14| Protecting AI | | |
