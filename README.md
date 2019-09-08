@@ -41,26 +41,29 @@ other material posted on ELMS or Piazza outside of class.
 All regrade requests must be made within one week of the assignment grade being released.
 
 ### Late Policy
-
+All assignments may be turned in up to 24 hours late with a 20% penalty. 
+After 24 hours, no late assignments will be accepted.
 
 ## Schedule
-| Week | Readings | Topic | Assignment |
+The schedule is subject to change; students will be notified in such an
+occurrence. 
+| Week | Topic | Materials and Readings | Assignment |
 |:----:|:----:|:----:|:----:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10| | | |
-| 11| | | |
-| 12| | | |
-| 13| | | |
-| 14| | | |
-| 15| | | |
+| 1 | Introduction to Ethics | | |
+| 2 | Data Privacy | | |
+| 3 | Transparency | | |
+| 4 | Human and System Bias | | |
+| 5 | Automated System Error | | |
+| 6 | War and Military Systems | | |
+| 7 | Defining Intelligence and the Turing Test | | |
+| 8 | The Future (or End) of Labor | | |
+| 9 | Consciousness and Rights | | |
+| 10| Singularity and Control | | |
+| 11| Inequality, Unequal Access, Open-Sourcing | | |
+| 12| Unintended Consequences | | |
+| 13| Interaction and Affection | | |
+| 14| Protecting AI | | |
+| 15| Artistic Expression | | |
 
 
 ## Communication
