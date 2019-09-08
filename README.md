@@ -1,7 +1,7 @@
 # Ethics of Artifical Intelligence and Machine Learning
 TODO: (change repo name to be 'of' instead of 'in')
 ## Course Description
-This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns existing in the present day. During the semester's second half, we will move on to future issues.
+This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns existing in the present day, such as bias and transparency. During the semester's second half, we will cover future-relevant topics from consciousness to the future of labor.
 
 ## Course Details
 - **Course**: TBD
@@ -89,5 +89,5 @@ fabrication, facilitation, and plagiarism. For more information on the Code of A
 http://www.shc.umd.edu.
 
 ## Feedback
-If you have any suggestions for improving this class, don't hesitate to tell the instructor or TAs during the semester. At the end of the semester, please don't forget to provide your feedback using the campus-wide CourseEvalUM system. Your comments will help make this class better in future iterations.
+If you have any suggestions for improving this class, don't hesitate to tell the instructor or facilitators during the semester. At the end of the semester, please don't forget to provide your feedback using the campus-wide CourseEvalUM system. Your comments will help make this class better in future iterations.
 
