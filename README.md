@@ -56,7 +56,7 @@ occurrence.
 
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
-| 1 | Introduction to Ethics | | |
+| 1 | Introduction to Ethics | | [Short Answer Questions](Week1/testing2.pdf) |
 | 2 | Data Privacy | | |
 | 3 | Transparency | | |
 | 4 | Human and System Bias | | |
