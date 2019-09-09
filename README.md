@@ -1,5 +1,8 @@
 # Ethics of Artifical Intelligence and Machine Learning
-![Image](https://q4j2g5j9.stackpathcdn.com/ddg-dream/aec9389a1dfd7f1a5601ae5c1bd4f54d99aca38a.jpg)
+<p align="center">
+  <img width="610" height="575" src="https://q4j2g5j9.stackpathcdn.com/ddg-dream/aec9389a1dfd7f1a5601ae5c1bd4f54d99aca38a.jpg">
+</p>
+
 
 (Image produced using Deep Dream Generator, a computer vision program that utilizes a convolutional neural network to recreate a picture in the style of another)
 
