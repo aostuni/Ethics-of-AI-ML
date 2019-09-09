@@ -55,7 +55,7 @@ occurrence.
 
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
-| 1 | Introduction to Ethics | [Ground Rules for Discussions](http://www.uvm.edu/~pass/tignor/filmseries_files/groundrules.pdf), [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/) | [Short Answer Questions](Week1/testing2.pdf) |
+| 1 | Introduction to Ethics | [Ground Rules for Discussions](http://www.uvm.edu/~pass/tignor/filmseries_files/groundrules.pdf), [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/) | [Short Answer Questions](Week1/Week1ShortAnswerQuestions.pdf) |
 | 2 | Data Privacy | | |
 | 3 | Transparency | | |
 | 4 | Human and System Bias | | |
