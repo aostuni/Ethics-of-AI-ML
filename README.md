@@ -1,4 +1,8 @@
 # Ethics of Artifical Intelligence and Machine Learning
+![Image](https://q4j2g5j9.stackpathcdn.com/ddg-dream/aec9389a1dfd7f1a5601ae5c1bd4f54d99aca38a.jpg)
+
+(Image produced using Deep Dream Generator, a computer vision program that utilizes a convolutional neural network to recreate a picture in the style of another)
+
 TODO: (change repo name to be 'of' instead of 'in')
 ## Course Description
 This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns existing in the present day, such as bias and transparency. During the semester's second half, we will cover future-relevant topics from consciousness to the future of labor.
