@@ -38,8 +38,10 @@ other material posted on ELMS or Piazza outside of class.
 | 35% | Final Paper
 
 ### Discussions 
+The majority of time in the classroom will be spent in group discussion. This will allow for an efficient exchange of diverse ideas and perspectives, as well as forcing you to become more comfortable organizing and articulating technical and philosophical concepts. We will decide discussion rules together as a class during the first week.
 
 ### Papers
+There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The final paper will be assigned at the end of the semester, and it should represent the culmination of ideas developed throughout the course. The official assignment details for both papers will be released closer to the assignment dates.
 
 All regrade requests must be made within one week of the assignment grade being released.
 
