@@ -21,7 +21,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Faculty Advisor**: TBD
 
 ## Class Format
-This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings. These readings must be completed before class and used to write a response to a short-answer question. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that may be of value to the discussion. The primary assignments for the class will be papers.
+This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings. These readings must be completed before class and used to write a response to a short-answer question. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
 
 
 ## Grading
