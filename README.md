@@ -18,7 +18,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Location**: TBD
 - **Course Materials**: TBD
 - **Course Facilitator**: Anthony Ostuni
-- **Faculty Advisor**: TBD
+- **Faculty Advisor**: Dr. John Dickerson
 
 ## Class Format
 This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings. These readings must be completed before class and used to write a response to a short-answer question. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
@@ -74,7 +74,7 @@ occurrence.
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
-- **Instructor**: [instructor] [at] umd.edu
+- **Instructor**: john [at] umd.edu
 - **Anthony Ostuni**: aostuni [at] umd.edu
 
 ## Excused Absence and Academic Accommodations
