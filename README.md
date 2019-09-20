@@ -16,7 +16,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Seats**: TBD
 - **Lecture Time**: TBD
 - **Location**: TBD
-- **Course Materials**: TBD
+- **Course Materials**: All required course materials will be provided.
 - **Course Facilitator**: Anthony Ostuni
 - **Faculty Advisor**: Dr. John Dickerson
 
