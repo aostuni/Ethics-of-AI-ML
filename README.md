@@ -62,8 +62,8 @@ occurrence.
 | 5 | Automated System Error | | |
 | 6 | War and Military Systems | | |
 | 7 | Defining Intelligence and the Turing Test | | |
-| 8 | The Future (or End) of Labor | [The Rise of the Machines (Kurzgesagt)](https://www.youtube.com/watch?v=WSKi8HfcxEk), [Universal Basic Income Explained (Kurzgesagt)](https://www.youtube.com/watch?v=kl39KHS07Xc) | [Short Answer Questions](Week8/Week8ShortAnswerQuestions.pdf) |
-| 9 | Consciousness and Rights | | |
+| 8 | The Future (or End) of Labor | [The Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [Universal Basic Income Explained](https://www.youtube.com/watch?v=kl39KHS07Xc) | [Short Answer Questions](Week8/Week8ShortAnswerQuestions.pdf) |
+| 9 | Consciousness and Rights | [Do Robots Deserve Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [The Puzzle of Conscious Experience](Week9/The&#32;Puzzle&#32;of&#32;Conscious&#32;Experience.pdf) | [Short Answer Questions](Week9/Week9ShortAnswerQuestions.pdf) |
 | 10| Singularity and Control | | |
 | 11| Inequality, Unequal Access, and Open-Sourcing | | |
 | 12| Unintended Consequences | | |
