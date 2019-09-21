@@ -21,7 +21,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Faculty Advisor**: Dr. John Dickerson
 
 ## Class Format
-This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings. These readings must be completed before class and used to write a response to a short-answer question. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
+This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings. These readings must be completed before class and used to write a response to a short-answer question. Note that these readings do not necessarily reflect the viewpoints of the course facilitator nor faculty advisor; they are simply materials design to provoke thought on the subject area. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
 
 
 ## Grading
@@ -74,8 +74,8 @@ occurrence.
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
-- **Instructor**: john [at] umd.edu
-- **Anthony Ostuni**: aostuni [at] umd.edu
+- **Faculty Adviser: John Dickerson**: john [at] umd.edu
+- **Course Facilitator: Anthony Ostuni**: aostuni [at] umd.edu
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at [Course Related Policies](http://www.ugst.umd.edu/courserelatedpolicies.html).
