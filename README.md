@@ -57,20 +57,19 @@ occurrence.
 |:----:|:----:|:----:|:----:|
 | 1 | Introduction to Ethics | [Ground Rules for Discussions](http://www.uvm.edu/~pass/tignor/filmseries_files/groundrules.pdf), [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/) | [Short Answer Questions](Week1/Week1ShortAnswerQuestions.pdf) |
 | 2 | Data Privacy | | |
-| 3 | Transparency | | |
-| 4 | Human and System Bias | | |
-| 5 | Automated System Error | | |
-| 6 | War and Military Systems | | |
-| 7 | Defining Intelligence and the Turing Test | | |
-| 8 | The Future (or End) of Labor | [The Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [Universal Basic Income Explained](https://www.youtube.com/watch?v=kl39KHS07Xc) | [Short Answer Questions](Week8/Week8ShortAnswerQuestions.pdf) |
-| 9 | Consciousness and Rights | [Do Robots Deserve Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [The Puzzle of Conscious Experience](Week9/The&#32;Puzzle&#32;of&#32;Conscious&#32;Experience.pdf) | [Short Answer Questions](Week9/Week9ShortAnswerQuestions.pdf) |
-| 10| Singularity and Control | | |
-| 11| Inequality, Unequal Access, and Open-Sourcing | | |
-| 12| Unintended Consequences | | |
+| 3 | Transparency and Interpretability | | |
+| 4 | Machine and System Bias (Part 1) | | |
+| 5 | Machine and System Bias (Part 2) | | |
+| 6 | Automated System Error | | |
+| 7 | War and Military Systems | | |
+| 8 | Defining Intelligence and the Turing Test | | |
+| 9 | The Future (or End) of Labor | [The Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [Universal Basic Income Explained](https://www.youtube.com/watch?v=kl39KHS07Xc) | [Short Answer Questions](Week8/Week8ShortAnswerQuestions.pdf) |
+| 10 | Consciousness and Rights | [Do Robots Deserve Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [The Puzzle of Conscious Experience](Week9/The&#32;Puzzle&#32;of&#32;Conscious&#32;Experience.pdf) | [Short Answer Questions](Week9/Week9ShortAnswerQuestions.pdf) |
+| 11| Singularity, Control, and Unintended Consequences | | |
+| 12| Inequality, Unequal Access, and Open-Sourcing | | |
 | 13| Interaction and Affection | | |
 | 14| Protecting AI | | |
 | 15| Artistic Expression | | |
-
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
