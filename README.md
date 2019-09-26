@@ -69,7 +69,7 @@ occurrence.
 | 12| Inequality, Unequal Access, and Open-Sourcing |[AI and Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [AI Research Openness](https://futurism.com/ai-secret-report) | |
 | 13| Interaction and Affection | [AI Companion for the Elderly](https://www.engadget.com/2017/01/17/artificial-intelligence-robot-companion-for-the-elderly/?guccounter=1), [Companion Robots are Here](https://www.wired.com/story/companion-robots-are-here/)| |
 | 14| Protecting AI | [Crippling AI](https://www.wired.co.uk/article/artificial-intelligence-hacking-machine-learning-adversarial), [Protecting AI](https://www.technologyreview.com/s/610656/to-protect-artificial-intelligence-from-attacks-show-it-fake-data/) | |
-| 15| Artistic Expression | [Can AI Be Creative?](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca), [Multi-Agent Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)| |
+| 15| Artificial Creativity | [Can AI Be Creative?](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca), [Multi-Agent Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)| |
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
