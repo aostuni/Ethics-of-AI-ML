@@ -56,20 +56,20 @@ occurrence.
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
 | 1 | Introduction to Ethics | [Ground Rules for Discussions](http://www.uvm.edu/~pass/tignor/filmseries_files/groundrules.pdf), [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/) | [Short Answer Questions](Week1/Week1ShortAnswerQuestions.pdf) |
-| 2 | Data Privacy | | |
-| 3 | Transparency and Interpretability | | |
-| 4 | Machine and System Bias (Part 1) | | |
-| 5 | Machine and System Bias (Part 2) | | |
-| 6 | Automated System Error | | |
-| 7 | War and Military Systems | | |
-| 8 | Defining Intelligence and the Turing Test | | |
+| 2 | Data Privacy | [Target Exposed Pregnancy](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), [Netflix "Anonymous" Data](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/)| |
+| 3 | Transparency and Interpretability | [Importance of Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)| |
+| 4 | Machine and System Bias (Part 1) |[Recidivism Algorithm](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) | |
+| 5 | Machine and System Bias (Part 2) | [China's Citizen Score](https://www.washingtonpost.com/world/asia_pacific/chinas-plan-to-organize-its-whole-society-around-big-data-a-rating-for-everyone/2016/10/20/1cd0dd9c-9516-11e6-ae9d-0030ac1899cd_story.html), [Using AI in Hiring](https://hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-in-hiring)| |
+| 6 | Automated System Error | [Self-Driving Cars](https://www.youtube.com/watch?v=ixIoDYVfKA0), [Autonomous Cars and Surgical Robots](https://verdict.justia.com/2012/11/19/autonomous-cars-and-surgical-robots)| |
+| 7 | War and Military Systems |[Why We Must Not Build...](https://time.com/4948633/robots-artificial-intelligence-war/), [AI is Changing Every Aspect of War](https://www.economist.com/science-and-technology/2019/09/07/artificial-intelligence-is-changing-every-aspect-of-war) | |
+| 8 | Defining Intelligence and the Turing Test |[The Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c), PUT PDF HERE | |
 | 9 | The Future (or End) of Labor | [The Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [Universal Basic Income Explained](https://www.youtube.com/watch?v=kl39KHS07Xc) | [Short Answer Questions](Week8/Week8ShortAnswerQuestions.pdf) |
 | 10 | Consciousness and Rights | [Do Robots Deserve Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [The Puzzle of Conscious Experience](Week9/The&#32;Puzzle&#32;of&#32;Conscious&#32;Experience.pdf) | [Short Answer Questions](Week9/Week9ShortAnswerQuestions.pdf) |
-| 11| Singularity, Control, and Unintended Consequences | | |
-| 12| Inequality, Unequal Access, and Open-Sourcing | | |
-| 13| Interaction and Affection | | |
-| 14| Protecting AI | | |
-| 15| Artistic Expression | | |
+| 11| Singularity, Control, and Unintended Consequences |[What Happens When Our Computers Get Smarter Than We Are?](https://www.youtube.com/watch?v=MnT1xgZgkpk) | |
+| 12| Inequality, Unequal Access, and Open-Sourcing |[AI and Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [AI Research Openness](https://futurism.com/ai-secret-report) | |
+| 13| Interaction and Affection | [AI Companion for the Elderly](https://www.engadget.com/2017/01/17/artificial-intelligence-robot-companion-for-the-elderly/?guccounter=1), [Companion Robots are Here](https://www.wired.com/story/companion-robots-are-here/)| |
+| 14| Protecting AI | [Crippling AI](https://www.wired.co.uk/article/artificial-intelligence-hacking-machine-learning-adversarial), [Protecting AI](https://www.technologyreview.com/s/610656/to-protect-artificial-intelligence-from-attacks-show-it-fake-data/) | |
+| 15| Artistic Expression | [Can AI Be Creative?](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca), [Multi-Agent Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)| |
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
