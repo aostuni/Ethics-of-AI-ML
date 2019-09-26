@@ -1,0 +1,5 @@
+Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
+
+1. What are your thoughts on artificial intelligence companions for the elderly? Are they a helpful tool to prevent depression and social isolation, a dystopian product preventing more meaningful social interaction, or somewhere in between? What do you believe their ideal role should be? Justify your answers.
+
+2. Do you consider social intelligence a necessary component of intelligence? If so, where would it rank in terms of important components of intelligence? What do you consider the role of social skills in artificial intelligence, and how socially skilled would you prefer AI agents you interact with be? Why?

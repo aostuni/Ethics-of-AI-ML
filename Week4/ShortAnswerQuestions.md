@@ -1,0 +1,5 @@
+Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
+
+1. Given that race was not one of the algorithm inputs, what do you think is the most effective way to ensure there are not racial proxies (inputs not labeled race, but that are strongly correlated with race) as part of the system? How unbiased must an algorithm be before it can be deployed in the “real world”? Does it matter what application it will be applied to? Justify your answer.
+
+2. In conjunction with last week’s discussion on transparency, under what conditions, if any, should companies or organizations be required to release their algorithms? Does your opinion depend on whether the organization is governmental or private? Should the government be allowed to outsource such algorithms and classifications to private companies? Justify your answer.
