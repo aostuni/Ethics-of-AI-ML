@@ -14,8 +14,8 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Prerequisites**: CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
-- **Lecture Time**: TBD
-- **Location**: TBD
+- **Lecture Time**: Friday, 1:00-1:50 pm
+- **Location**: MTH0101
 - **Course Materials**: All required course materials will be provided.
 - **Course Facilitator**: Anthony Ostuni
 - **Faculty Advisor**: Dr. John Dickerson
