@@ -11,9 +11,9 @@ This discussion-based course will provide an introduction to the ethical issues 
 
 ## Course Details
 - **Course**: TBD
-- **Prerequisites**: TBD
+- **Prerequisites**: CMSC216 and CMSC250
 - **Credits**: 1
-- **Seats**: TBD
+- **Seats**: 30
 - **Lecture Time**: TBD
 - **Location**: TBD
 - **Course Materials**: All required course materials will be provided.
