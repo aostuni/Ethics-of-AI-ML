@@ -10,7 +10,7 @@
 This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns existing in the present day, such as bias and transparency. During the semester's second half, we will cover topics that will be increasingly important going forward, from consciousness to the future of labor.
 
 ## Course Details
-- **Course**: TBD
+- **Course**: CMSC389D
 - **Prerequisites**: CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
