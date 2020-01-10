@@ -18,7 +18,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Location**: MTH0101
 - **Course Materials**: All required course materials will be provided.
 - **Course Facilitator**: Anthony Ostuni
-- **Faculty Advisor**: Dr. John Dickerson
+- **Faculty Advisor**: [Dr. John Dickerson](http://jpdickerson.com/)
 
 ## Class Format
 This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings and/or videos. These materials must be completed before class and used to write a response to a short-answer question. Note that the materials do not necessarily reflect the viewpoints of the course facilitator nor faculty advisor; they are simply design to provoke thought on the subject area. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
@@ -73,7 +73,7 @@ occurrence.
 
 ## Communication
 The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
-- **Faculty Adviser: John Dickerson**: john [at] umd.edu
+- **Faculty Adviser: [Dr. John Dickerson](http://jpdickerson.com/)**: john [at] umd.edu
 - **Course Facilitator: Anthony Ostuni**: aostuni [at] umd.edu
 
 ## Excused Absence and Academic Accommodations
