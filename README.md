@@ -46,7 +46,7 @@ There will be two essays that will compose the majority of your work outside the
 All regrade requests must be made within one week of the assignment grade being released.
 
 ### Late Policy
-All assignments may be turned in up to 24 hours late with a 20% penalty. 
+All assignments may be turned in up to 24 hours late with a 25% penalty. 
 After 24 hours, no late assignments will be accepted.
 
 ## Schedule
