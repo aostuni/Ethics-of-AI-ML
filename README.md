@@ -1,4 +1,4 @@
-# Ethics of Artifical Intelligence and Machine Learning
+# Ethics of Artificial Intelligence and Machine Learning
 <p align="center">
   <img width="610" height="575" src="https://q4j2g5j9.stackpathcdn.com/ddg-dream/aec9389a1dfd7f1a5601ae5c1bd4f54d99aca38a.jpg">
 </p>
