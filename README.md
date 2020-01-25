@@ -25,7 +25,7 @@ This course will primarily be discussion-based, with the topic of each week's di
 
 
 ## Grading
-Grades will be maintained on the CS Department [grades server](https://grades.cs.umd.edu/).
+Grades will be maintained on ELMS.
 
 You are responsible for all material discussed during lecture, as well as readings and 
 other material posted on ELMS or Piazza outside of class.
@@ -34,16 +34,20 @@ other material posted on ELMS or Piazza outside of class.
 |:----:|:----:|
 | 10% | Reading Short-Answer  
 | 30% | Participation 
-| 25% | Midterm Paper
-| 35% | Final Paper
+| 25% | First Paper
+| 25% | Second Paper
+| 10% | ML / AI Guidelines
 
 ### Discussions 
 The majority of time in the classroom will be spent in group discussion. This will allow for an efficient exchange of diverse ideas and perspectives, as well as forcing you to become more comfortable organizing and articulating technical and philosophical concepts. We will decide discussion rules together as a class during the first week.
 
 ### Papers
-There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The final paper will be assigned at the end of the semester, and it should represent the culmination of ideas developed throughout the course. The official assignment details for both papers will be released closer to the assignment dates.
+There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The second paper will be assigned after Week 12, and it should represent the culmination of ideas developed throughout the previous six weeks. The official assignment details for both papers will be released closer to the assignment dates.
 
 All regrade requests must be made within one week of the assignment grade being released.
+
+### Final Assignment
+In lieu of a final, you will be expected to develop a list of ML / AI Guidelines for a tech company to follow and justify your rules. The official assignment details will be released closer to the assignment date.
 
 ### Late Policy
 All assignments may be turned in up to 24 hours late with a 25% penalty. 
