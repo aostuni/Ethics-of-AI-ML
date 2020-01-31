@@ -59,7 +59,7 @@ occurrence.
 
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
-| 1 | Introduction to Ethics | [Ground Rules for Discussions](http://www.uvm.edu/~pass/tignor/filmseries_files/groundrules.pdf), [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/) | [Short Answer Questions](Week1/ShortAnswerQuestions.md) |
+| 1 | Introduction to Ethics | [Ground Rules for Discussions](http://www.uvm.edu/~pass/tignor/filmseries_files/groundrules.pdf), [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/) | |
 | 2 | Data Privacy | [Target Exposed Pregnancy](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), [Netflix "Anonymous" Data](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/)| [Short Answer Questions](Week2/ShortAnswerQuestions.md)|
 | 3 | Transparency and Interpretability | [Importance of Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)| [Short Answer Questions](Week3/ShortAnswerQuestions.md) |
 | 4 | Machine and System Bias (Part 1) |[Recidivism Algorithm](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) | [Short Answer Questions](Week4/ShortAnswerQuestions.md)|
