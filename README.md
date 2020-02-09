@@ -60,7 +60,7 @@ occurrence.
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
 | 1 | Introduction to Ethics | [Course Introduction Slides](Week1/CourseIntroduction.pptx) | |
-| 2 | Data Privacy | [Target Exposed Pregnancy](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), [Netflix "Anonymous" Data](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/)| [Short Answer Questions](Week2/ShortAnswerQuestions.md)|
+| 2 | Data Privacy | [Target Exposed Pregnancy](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), [Netflix "Anonymous" Data](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/), [Data Privacy 1 Slides](Week2/DataPrivacy1.pptx)| [Short Answer Questions](Week2/ShortAnswerQuestions.md)|
 | 3 | Transparency and Interpretability | [Importance of Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)| [Short Answer Questions](Week3/ShortAnswerQuestions.md) |
 | 4 | Machine and System Bias (Part 1) |[Recidivism Algorithm](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) | [Short Answer Questions](Week4/ShortAnswerQuestions.md)|
 | 5 | Machine and System Bias (Part 2) | [China's Citizen Score](https://www.washingtonpost.com/world/asia_pacific/chinas-plan-to-organize-its-whole-society-around-big-data-a-rating-for-everyone/2016/10/20/1cd0dd9c-9516-11e6-ae9d-0030ac1899cd_story.html), [Using AI in Hiring](https://hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-in-hiring)|[Short Answer Questions](Week5/ShortAnswerQuestions.md) |
