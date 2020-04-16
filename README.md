@@ -42,12 +42,12 @@ other material posted on ELMS or Piazza outside of class.
 The majority of time in the classroom will be spent in group discussion. This will allow for an efficient exchange of diverse ideas and perspectives, as well as forcing you to become more comfortable organizing and articulating technical and philosophical concepts. We will decide discussion rules together as a class during the first week.
 
 ### Papers
-There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The second paper will be assigned after Week 12, and it should represent the culmination of ideas developed throughout the previous six weeks. The official assignment details for both papers will be released closer to the assignment dates.
+There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The second paper will be assigned after Week 12, and it should represent the culmination of ideas developed throughout the previous six weeks. The official assignment details for both papers will be released on ELMS.
 
 All regrade requests must be made within one week of the assignment grade being released.
 
 ### Final Assignment
-In lieu of a final, you will be expected to develop a list of ML / AI Guidelines for a tech company to follow and justify your rules. The official assignment details will be released closer to the assignment date.
+In lieu of a final, you will be expected to develop a list of ML / AI Guidelines for a tech company to follow and justify your rules. The official assignment details will be released on ELMS.
 
 ### Late Policy
 All assignments may be turned in up to 24 hours late with a 25% penalty. 
