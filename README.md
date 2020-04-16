@@ -88,7 +88,7 @@ See the section titled "Accessibility" available at [Course Related Policies](ht
 ## Academic Integrity
 Note that academic dishonesty includes not only cheating, fabrication, and
 plagiarism, but also includes helping other students commit acts of academic dishonesty by allowing them to obtain copies of your work. In short, all submitted work must be your own. Cases of academic dishonesty will be pursued to the fullest extent possible as stipulated by the
-[Office of Student Conduct](http://osc.umd.edu/OSC/Default.aspx).
+[Office of Student Conduct](https://studentconduct.umd.edu/).
 
 It is very important for you to be aware of the consequences of cheating,
 fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit
