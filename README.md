@@ -16,13 +16,12 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Seats**: 30
 - **Lecture Time**: Friday, 1:00-1:50 pm
 - **Location**: Online
-- **Course Materials**: All required course materials will be provided.
+- **Course Materials**: A microphone and web camera for Zoom calls
 - **Course Facilitator**: Anthony Ostuni
 - **Faculty Advisor**: [Dr. John Dickerson](http://jpdickerson.com/)
 
 ## Class Format
-This course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings and/or videos. These materials must be completed before class and used to write a response to a short-answer question. Note that the materials do not necessarily reflect the viewpoints of the course facilitator nor faculty advisor; they are simply design to provoke thought on the subject area. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
-
+This online course will primarily be discussion-based, with the topic of each week's discussion determined by a set of short readings and/or videos. These materials must be completed before class and used to write a response to a short-answer question. Note that the materials do not necessarily reflect the viewpoints of the course facilitator nor faculty advisor; they are simply design to provoke thought on the subject area. Prior to the class discussion, there may be a brief lecture on a specific idea or concept that could be of value to the conversation. The primary assignments for the class will be two papers.
 
 ## Grading
 Grades will be maintained on ELMS.
@@ -38,8 +37,24 @@ other material posted on ELMS or Piazza outside of class.
 | 25% | Second Paper
 | 10% | ML / AI Guidelines
 
+The following cutoffs may be lowered (but will not be raised) depending on the performance of the class.
+
+| Grade | Cutoff
+|:--:|:--:|
+| A+ | 97
+| A  | 93
+| A- | 90
+| B+ | 87
+| B  | 83
+| B- | 80
+| C+ | 77
+| C  | 73
+| C- | 70
+| D  | 60
+| F  | 0
+
 ### Discussions 
-The majority of time in the classroom will be spent in group discussion. This will allow for an efficient exchange of diverse ideas and perspectives, as well as forcing you to become more comfortable organizing and articulating technical and philosophical concepts. We will decide discussion rules together as a class during the first week.
+The majority of class time will be spent in group discussion. This will allow for an efficient exchange of diverse ideas and perspectives, as well as forcing students to become more comfortable organizing and articulating technical and philosophical concepts. We will decide discussion rules together as a class during the first week. Discussions will be held over Zoom, so students are required to have a microphone and web camera to communicate as smoothly as possible given the circumstances.
 
 ### Papers
 There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The second paper will be assigned after Week 12, and it should represent the culmination of ideas developed throughout the previous six weeks. The official assignment details for both papers will be released on ELMS.
@@ -76,7 +91,7 @@ occurrence.
 | 12/11 | TBD |||
 
 ## Communication
-The primary means of communication outside of class will be Piazza and ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
+The primary means of communication outside of class will be ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
 - **Faculty Adviser: [Dr. John Dickerson](http://jpdickerson.com/)**: john [at] umd.edu
 - **Course Facilitator: Anthony Ostuni**: aostuni [at] umd.edu
 
@@ -85,7 +100,6 @@ See the section titled "Attendance, Absences, or Missed Assignments" available a
 
 ## Disability Support Accommodations
 See the section titled "Accessibility" available at [Course Related Policies](http://www.ugst.umd.edu/courserelatedpolicies.html).
-
 
 ## Academic Integrity
 Note that academic dishonesty includes not only cheating, fabrication, and
