@@ -1,5 +1,5 @@
 Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
 
-1. How much access, if any, should companies have over their users’ data? What is the balance between effective services built on user data and privacy? What role, if any, should governments play in the management of data?
+1. Based on the reading, why do you think it is important for machine learning models to be interpretable? Provide several reasons. Of these reasons, which one do you believe is the most important? Why?
 
-2. Under what circumstances, if any, should data be allowed to be shared? Between different groups within the same organization? Between independent organizations? For large potential good, such as cancer research?
+2. Assuming there exists a tradeoff between model performance and model interpretability, how do we determine an appropriate balance? Which of these two qualities do you think it more important? Why?
