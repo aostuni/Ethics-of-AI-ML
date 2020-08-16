@@ -57,7 +57,7 @@ The following cutoffs may be lowered (but will not be raised) depending on the p
 The majority of class time will be spent in group discussion. This will allow for an efficient exchange of diverse ideas and perspectives, as well as forcing students to become more comfortable organizing and articulating technical and philosophical concepts. We will decide discussion rules together as a class during the first week. Discussions will be held over Zoom, so students are required to have a microphone and web camera to communicate as smoothly as possible given the circumstances.
 
 ### Papers
-There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned after Week 6, and it will be on one of the topics discussed up to that point in class. The second paper will be assigned after Week 12, and it should represent the culmination of ideas developed throughout the previous six weeks. The official assignment details for both papers will be released on ELMS.
+There will be two essays that will compose the majority of your work outside the classroom. The first will be assigned around the 6th week, and it will be on one of the topics discussed up to that point in class. The second paper will be assigned around the 12th week, and it should represent the culmination of ideas developed throughout the previous six weeks. The official assignment details for both papers will be released on ELMS.
 
 All regrade requests must be made within one week of the assignment grade being released.
 
