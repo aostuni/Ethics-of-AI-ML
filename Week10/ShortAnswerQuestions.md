@@ -1,5 +1,0 @@
-Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
-
-1. Do you believe we will ever reach a point where robots or other artificial entities deserve rights? What would signify that point occurring? What kinds of rights should these entities have, and what kinds of rights do you think they would want?
-
-2. After reading “The Puzzle of Conscious Experience,” to what degree do you believe humans will need to understand consciousness before we can (if we can ever) create conscious entities? Would it suffice to be able to answer the “easy problems”, or is it required that the “hard problem” is solved? Do you think it’s possible humans can create conscious entities without understanding consciousness at all?
