@@ -1,5 +1,0 @@
-Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
-
-1. What do you believe is the most effective way to get an artificial intelligent agent to behave inline with our values? How would you address the fact that there is a vast diversity of values within the human population? If you were to explicitly provide such an agent with a command, how would you verify that all relevant details were provided to prevent unintentional consequences?
-
-2. Do you agree with Bostrom on (a) the inability to keep AI contained and (b) the value of the control problem? Why? Do you believe it would even be possible to solve the control problem before we know substantial information about what form such a superintelligent AI agent will take?
