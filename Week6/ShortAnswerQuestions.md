@@ -1,5 +1,0 @@
-Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
-
-1. Consider an autonomous system that has the potential to improve the safety of some service or activity--self-driving cars for example. How much safer than their human counterparts do you believe these systems need to be before we should switch to using them? Does it depend on the service? 
-
-2. In the case of “The Ethical Dilemma of Self-Driving Cars,” what decision do you think the car should make? Do you believe there is any moral difference between a death from a car crash caused by a human driver as opposed to an autonomous one? Who should determine the ethical rules for how these systems should behave? Who, if anyone, should be punished for the repercussions of these system failures? Justify your answers.
