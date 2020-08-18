@@ -86,7 +86,7 @@ occurrence.
 | 11/6 | Singularity, Control, and Unintended Consequences | | |
 | 11/13 | Inequality, Unequal Access, and Open-Sourcing | | |
 | 11/20 | Interaction and Affection | | |
-| 11/27 | Thanksgiving Break |||
+| 11/27 | *Thanksgiving Break* | n/a | n/a |
 | 12/4 | Artificial Creativity | | |
 | 12/11 | Robot Rights | | |
 
