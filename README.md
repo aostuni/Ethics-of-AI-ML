@@ -17,7 +17,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Lecture Time**: Friday, 1:00-1:50 pm
 - **Location**: Online
 - **Course Materials**: A microphone and web camera for Zoom calls
-- **Course Facilitator**: Anthony Ostuni
+- **Course Facilitator**: [Anthony Ostuni](https://aostuni.github.io/)
 - **Faculty Advisor**: [Dr. John Dickerson](http://jpdickerson.com/)
 
 ## Class Format
