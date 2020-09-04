@@ -74,8 +74,8 @@ occurrence.
 
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
-| 9/4 | Introduction to Ethics | [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html) | |
-| 9/11 | Transparency and Interpretability | | |
+| 9/4 | Introduction to Ethics | [Slides](CourseIntroduction.pptx) | |
+| 9/11 | Transparency and Interpretability | [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html) | [Questions](ShortAnswerQuestions_Wk2.md) |
 | 9/18 | Algorithmic Racism and Bias | | |
 | 9/25 | Societal Algorithms | | |
 | 10/2 | Data Privacy | | |
@@ -93,7 +93,7 @@ occurrence.
 ## Communication
 The primary means of communication outside of class will be ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
 - **Faculty Adviser: [Dr. John Dickerson](http://jpdickerson.com/)**: john [at] umd.edu
-- **Course Facilitator: Anthony Ostuni**: aostuni [at] umd.edu
+- **Course Facilitator: [Anthony Ostuni](https://aostuni.github.io/)**: aostuni [at] umd.edu
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at [Course Related Policies](http://www.ugst.umd.edu/courserelatedpolicies.html).
