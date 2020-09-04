@@ -74,7 +74,7 @@ occurrence.
 
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
-| 9/4 | Introduction to Ethics | | |
+| 9/4 | Introduction to Ethics | [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html) | |
 | 9/11 | Transparency and Interpretability | | |
 | 9/18 | Algorithmic Racism and Bias | | |
 | 9/25 | Societal Algorithms | | |
