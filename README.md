@@ -77,7 +77,7 @@ occurrence.
 | 9/4 | Introduction to Ethics | [Slides](CourseIntroduction.pptx) | |
 | 9/11 | Transparency and Interpretability | [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html), [Slides](DataPrivacy1.pptx) | [Questions](ShortAnswerQuestions_Wk2.md) |
 | 9/18 | Algorithmic Racism and Bias | [Criminal Sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), [Slides](DataPrivacyII.pptx) | [Questions](ShortAnswerQuestions_Wk3.md) |
-| 9/25 | Societal Algorithms | | |
+| 9/25 | Societal Algorithms | [Citizen Score](https://www.washingtonpost.com/world/asia_pacific/chinas-plan-to-organize-its-whole-society-around-big-data-a-rating-for-everyone/2016/10/20/1cd0dd9c-9516-11e6-ae9d-0030ac1899cd_story.html), [Hiring](https://hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-in-hiring)| [Questions](ShortAnswerQuestions_Wk4.md) |
 | 10/2 | Data Privacy | | |
 | 10/9 | Automated System Error | | |
 | 10/16 | War and Military Systems | | |
