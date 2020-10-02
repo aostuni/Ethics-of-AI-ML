@@ -79,7 +79,7 @@ occurrence.
 | 9/18 | Algorithmic Racism and Bias | [Criminal Sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), [PrivacyII Slides](DataPrivacyII.pptx) | [Questions](ShortAnswerQuestions_Wk3.md) |
 | 9/25 | Societal Algorithms | [Citizen Score](https://www.washingtonpost.com/world/asia_pacific/chinas-plan-to-organize-its-whole-society-around-big-data-a-rating-for-everyone/2016/10/20/1cd0dd9c-9516-11e6-ae9d-0030ac1899cd_story.html), [Hiring](https://hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-in-hiring), [PrivacyIII Slides](DataPrivacyIII.pptx)| [Questions](ShortAnswerQuestions_Wk4.md) |
 | 10/2 | Data Privacy | [Target](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), [Netflix](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/), [FairnessI Slides](Fairness1.pptx) | [Questions](ShortAnswerQuestionsWk5.md) |
-| 10/9 | Automated System Error | | |
+| 10/9 | Automated System Error | [TED-Ed](https://www.youtube.com/watch?v=ixIoDYVfKA0), [Verdict](https://verdict.justia.com/2012/11/19/autonomous-cars-and-surgical-robots) | [Questions](ShortAnswerQuestionsWk6.md) |
 | 10/16 | War and Military Systems | | |
 | 10/23 | Defining Intelligence and the Turing Test | | |
 | 10/30 | The Future (or End) of Labor | | |
