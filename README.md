@@ -82,7 +82,7 @@ occurrence.
 | 10/9 | Automated System Error | [TED-Ed](https://www.youtube.com/watch?v=ixIoDYVfKA0), [Verdict](https://verdict.justia.com/2012/11/19/autonomous-cars-and-surgical-robots), [FairnessII Slides](FairnessII.pptx) | [Questions](ShortAnswerQuestionsWk6.md) |
 | 10/16 | War and Military Systems | [Time](https://time.com/4948633/robots-artificial-intelligence-war/), [Military Review](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/), [FairnessIII Slides](FairnessIII.pptx) | [Questions](ShortAnswerQuestionsWk7.md) |
 | 10/23 | Defining Intelligence and the Turing Test | [What is AI](What-is-AI.pdf), [The Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Questions](ShortAnswerQuestions.md) |
-| 10/30 | The Future (or End) of Labor | | |
+| 10/30 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc) | [Questions](ShortAnswerQuestions9.md) |
 | 11/6 | Singularity, Control, and Unintended Consequences | | |
 | 11/13 | Inequality, Unequal Access, and Open-Sourcing | | |
 | 11/20 | Interaction and Affection | | |
