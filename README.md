@@ -83,7 +83,7 @@ occurrence.
 | 10/16 | War and Military Systems | [Time](https://time.com/4948633/robots-artificial-intelligence-war/), [Military Review](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/), [FairnessIII Slides](FairnessIII.pptx) | [Questions](ShortAnswerQuestionsWk7.md) |
 | 10/23 | Defining Intelligence and the Turing Test | [What is AI](What-is-AI.pdf), [The Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Questions](ShortAnswerQuestions.md) |
 | 10/30 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I Slides](<Game Theory I.pptx>) | [Questions](ShortAnswerQuestions9.md) |
-| 11/6 | Singularity, Control, and Unintended Consequences | | |
+| 11/6 | Singularity, Control, and Unintended Consequences | [TED Talk Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk) | [Questions](ShortAnswerQuestions10.md) |
 | 11/13 | Inequality, Unequal Access, and Open-Sourcing | | |
 | 11/20 | Interaction and Affection | | |
 | 11/27 | *Thanksgiving Break* | n/a | n/a |
