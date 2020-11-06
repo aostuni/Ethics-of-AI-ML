@@ -1,0 +1,5 @@
+Answer **at least one** of the following questions (in 5-7 sentences) and be ready to discuss all of them in class. You will **not** receive extra credit for answering more than one question. 
+
+1. Given the potential power of AI for both beneficial and malicious intent, who, if anyone, should have access to AI systems? How do we ensure only these groups control it? If you believe everyone should have access to AI, how do we keep people from using it in harmful ways?
+
+2. On the flip side to the previous argument, how do we ensure that the benefits of AI aren’t exclusive to large tech companies and research labs that develop such technologies? If such organizations invested in the development themselves, they should gain some benefit from that investment. How do we balance these two goals? Do you think AI will affect the wealth gap?
