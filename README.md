@@ -84,7 +84,7 @@ occurrence.
 | 10/23 | Defining Intelligence and the Turing Test | [What is AI](What-is-AI.pdf), [The Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Questions](ShortAnswerQuestions.md) |
 | 10/30 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I Slides](<Game Theory I.pptx>) | [Questions](ShortAnswerQuestions9.md) |
 | 11/6 | Singularity, Control, and Unintended Consequences | [TED Talk Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk), [Control Slides](Control.pptx) | [Questions](ShortAnswerQuestions10.md) |
-| 11/13 | Inequality, Unequal Access, and Open-Sourcing | [Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Restricting AI](https://futurism.com/ai-secret-report) | [Questions](ShortAnswerQuestions11.md) |
+| 11/13 | Inequality, Unequal Access, and Open-Sourcing | [Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Restricting AI](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Questions](ShortAnswerQuestions11.md) |
 | 11/20 | Interaction and Affection | | |
 | 11/27 | *Thanksgiving Break* | n/a | n/a |
 | 12/4 | Artificial Creativity | | |
