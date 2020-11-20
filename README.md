@@ -85,7 +85,7 @@ occurrence.
 | 10/30 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I Slides](<Game Theory I.pptx>) | [Questions](ShortAnswerQuestions9.md) |
 | 11/6 | Singularity, Control, and Unintended Consequences | [TED Talk Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk), [Control Slides](Control.pptx) | [Questions](ShortAnswerQuestions10.md) |
 | 11/13 | Inequality, Unequal Access, and Open-Sourcing | [Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Restricting AI](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Questions](ShortAnswerQuestions11.md) |
-| 11/20 | Interaction and Affection | [Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html), [Companion](https://www.wired.com/story/companion-robots-are-here/) | [Questions](ShortAnswerQuestions12.md)|
+| 11/20 | Interaction and Affection | [Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html), [Companion](https://www.wired.com/story/companion-robots-are-here/), [Game Theory III Slides](<Game Theory III.pptx>) | [Questions](ShortAnswerQuestions12.md)|
 | 11/27 | *Thanksgiving Break* | n/a | n/a |
 | 12/4 | Artificial Creativity | | |
 | 12/11 | Robot Rights | | |
