@@ -87,7 +87,7 @@ occurrence.
 | 11/13 | Inequality, Unequal Access, and Open-Sourcing | [Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Restricting AI](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Questions](ShortAnswerQuestions11.md) |
 | 11/20 | Interaction and Affection | [Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html), [Companion](https://www.wired.com/story/companion-robots-are-here/), [Game Theory III Slides](<Game Theory III.pptx>) | [Questions](ShortAnswerQuestions12.md)|
 | 11/27 | *Thanksgiving Break* | n/a | n/a |
-| 12/4 | Artificial Creativity | [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY), [Creativity](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca) | [Questions](ShortAnswerQuestions13.md) |
+| 12/4 | Artificial Creativity | [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY), [Creativity](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca), [Creativity Slides](<Artificial Creativity.pptx>) | [Questions](ShortAnswerQuestions13.md) |
 | 12/11 | Robot Rights | | |
 
 ## Communication
