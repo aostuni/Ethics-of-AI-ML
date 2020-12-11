@@ -88,7 +88,7 @@ occurrence.
 | 11/20 | Interaction and Affection | [Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html), [Companion](https://www.wired.com/story/companion-robots-are-here/), [Game Theory III Slides](<Game Theory III.pptx>) | [Questions](ShortAnswerQuestions12.md)|
 | 11/27 | *Thanksgiving Break* | n/a | n/a |
 | 12/4 | Artificial Creativity | [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY), [Creativity](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca), [Creativity Slides](<Artificial Creativity.pptx>) | [Questions](ShortAnswerQuestions13.md) |
-| 12/11 | Robot Rights | [Robot Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [Robots not Humans](https://www.youtube.com/watch?v=wPK2SWC0kx0&feature=emb_title) | [Questions](ShortAnswerQuestions15.md) |
+| 12/11 | Robot Rights | [Robot Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [Robots not Humans](https://www.youtube.com/watch?v=wPK2SWC0kx0&feature=emb_title), [Slides](<Robot Rights.pptx>) | [Questions](ShortAnswerQuestions15.md) |
 
 ## Communication
 The primary means of communication outside of class will be ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
