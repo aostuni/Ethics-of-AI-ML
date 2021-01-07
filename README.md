@@ -14,7 +14,7 @@ This discussion-based course will provide an introduction to the ethical issues 
 - **Prerequisites**: CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
-- **Lecture Time**: Friday, 1:00-1:50 pm
+- **Lecture Time**: Friday, 12:00-12:50 pm
 - **Location**: Online
 - **Course Materials**: A microphone and web camera for Zoom calls
 - **Course Facilitator**: [Anthony Ostuni](https://aostuni.github.io/)
@@ -74,21 +74,21 @@ occurrence.
 
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
-| 9/4 | Introduction to Ethics | [Slides](CourseIntroduction.pptx) | |
-| 9/11 | Transparency and Interpretability | [Interpretability Importance](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html), [Privacy Slides](DataPrivacy1.pptx) | [Questions](ShortAnswerQuestions_Wk2.md) |
-| 9/18 | Algorithmic Racism and Bias | [Criminal Sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), [PrivacyII Slides](DataPrivacyII.pptx) | [Questions](ShortAnswerQuestions_Wk3.md) |
-| 9/25 | Societal Algorithms | [Citizen Score](https://www.washingtonpost.com/world/asia_pacific/chinas-plan-to-organize-its-whole-society-around-big-data-a-rating-for-everyone/2016/10/20/1cd0dd9c-9516-11e6-ae9d-0030ac1899cd_story.html), [Hiring](https://hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-in-hiring), [PrivacyIII Slides](DataPrivacyIII.pptx)| [Questions](ShortAnswerQuestions_Wk4.md) |
-| 10/2 | Data Privacy | [Target](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), [Netflix](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/), [FairnessI Slides](Fairness1.pptx) | [Questions](ShortAnswerQuestionsWk5.md) |
-| 10/9 | Automated System Error | [TED-Ed](https://www.youtube.com/watch?v=ixIoDYVfKA0), [Verdict](https://verdict.justia.com/2012/11/19/autonomous-cars-and-surgical-robots), [FairnessII Slides](FairnessII.pptx) | [Questions](ShortAnswerQuestionsWk6.md) |
-| 10/16 | War and Military Systems | [Time](https://time.com/4948633/robots-artificial-intelligence-war/), [Military Review](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/), [FairnessIII Slides](FairnessIII.pptx) | [Questions](ShortAnswerQuestionsWk7.md) |
-| 10/23 | Defining Intelligence and the Turing Test | [What is AI](What-is-AI.pdf), [The Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Questions](ShortAnswerQuestions.md) |
-| 10/30 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I Slides](<Game Theory I.pptx>) | [Questions](ShortAnswerQuestions9.md) |
-| 11/6 | Singularity, Control, and Unintended Consequences | [TED Talk Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk), [Control Slides](Control.pptx) | [Questions](ShortAnswerQuestions10.md) |
-| 11/13 | Inequality, Unequal Access, and Open-Sourcing | [Income Inequality](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Restricting AI](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Questions](ShortAnswerQuestions11.md) |
-| 11/20 | Interaction and Affection | [Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html), [Companion](https://www.wired.com/story/companion-robots-are-here/), [Game Theory III Slides](<Game Theory III.pptx>) | [Questions](ShortAnswerQuestions12.md)|
-| 11/27 | *Thanksgiving Break* | n/a | n/a |
-| 12/4 | Artificial Creativity | [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY), [Creativity](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca), [Creativity Slides](<Artificial Creativity.pptx>) | [Questions](ShortAnswerQuestions13.md) |
-| 12/11 | Robot Rights | [Robot Rights](https://www.youtube.com/watch?v=DHyUYg8X31c), [Robots not Humans](https://www.youtube.com/watch?v=wPK2SWC0kx0&feature=emb_title), [Slides](<Robot Rights.pptx>) | [Questions](ShortAnswerQuestions15.md) |
+| 1/29 | Introduction to Ethics | | |
+| 2/5 | Transparency and Interpretability | | |
+| 2/12 | Algorithmic Racism and Bias | | |
+| 2/19 | Societal Algorithms | | |
+| 2/26 | Data Privacy | | |
+| 3/5 | Automated System Error | | |
+| 3/12 | War and Military Systems | | |
+| 3/19 | *Spring Break* | n/a | n/a |
+| 3/26 | Defining Intelligence and the Turing Test | | |
+| 4/2 | The Future (or End) of Labor | | |
+| 4/9 | Singularity, Control, and Unintended Consequences | | |
+| 4/16 | Inequality, Unequal Access, and Open-Sourcing | | |
+| 4/23 | Interaction and Affection | | |
+| 4/30 | Artificial Creativity | | |
+| 5/7 | Robot Rights | | |
 
 ## Communication
 The primary means of communication outside of class will be ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
