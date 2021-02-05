@@ -75,7 +75,7 @@ occurrence.
 | Week | Topic | Readings and Slides | Assignments |
 |:----:|:----:|:----:|:----:|
 | 1/29 | Introduction to Ethics | [Intro Slides](CourseIntroduction.pptx) | |
-| 2/5 | Transparency and Interpretability | [Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html) | [Short Answer Questions](ShortAnswerQuestions_Wk2.md) |
+| 2/5 | Transparency and Interpretability | [Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html), [Privacy I Slides](DataPrivacy1.pptx) | [Short Answer Questions](ShortAnswerQuestions_Wk2.md) |
 | 2/12 | Algorithmic Racism and Bias | | |
 | 2/19 | Societal Algorithms | | |
 | 2/26 | Data Privacy | | |
