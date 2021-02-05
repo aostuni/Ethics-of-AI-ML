@@ -76,7 +76,7 @@ occurrence.
 |:----:|:----:|:----:|:----:|
 | 1/29 | Introduction to Ethics | [Intro Slides](CourseIntroduction.pptx) | |
 | 2/5 | Transparency and Interpretability | [Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html), [Privacy I Slides](DataPrivacy1.pptx) | [Short Answer Questions](ShortAnswerQuestions_Wk2.md) |
-| 2/12 | Algorithmic Racism and Bias | | |
+| 2/12 | Algorithmic Racism and Bias | [ProPublica Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) | [Short Answer Questions](ShortAnswerQuestions_Wk3.md) |
 | 2/19 | Societal Algorithms | | |
 | 2/26 | Data Privacy | | |
 | 3/5 | Automated System Error | | |
