@@ -78,7 +78,7 @@ occurrence.
 | 2/5 | Transparency and Interpretability | [Interpretability](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html), [Privacy I Slides](DataPrivacy1.pptx) | [Short Answer Questions](ShortAnswerQuestions_Wk2.md) |
 | 2/12 | Algorithmic Racism and Bias | [ProPublica Article](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), [Privacy II Slides](DataPrivacyII.pptx) | [Short Answer Questions](ShortAnswerQuestions_Wk3.md) |
 | 2/19 | Societal Algorithms | [Citizen Score](https://www.washingtonpost.com/world/asia_pacific/chinas-plan-to-organize-its-whole-society-around-big-data-a-rating-for-everyone/2016/10/20/1cd0dd9c-9516-11e6-ae9d-0030ac1899cd_story.html), [AI in Hiring](https://hbr.org/2019/04/the-legal-and-ethical-implications-of-using-ai-in-hiring), [Privacy III Slides](DataPrivacyIII.pptx) | [Short Answer Questions](ShortAnswerQuestions_Wk4.md) |
-| 2/26 | Data Privacy | [Target Advertising](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), ['Anonymous' Data](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/) | [Short Answer Questions](ShortAnswerQuestionsWk5.md) |
+| 2/26 | Data Privacy | [Target Advertising](https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2), ['Anonymous' Data](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/), [Fairness I Slides](Fairness1.pptx) | [Short Answer Questions](ShortAnswerQuestionsWk5.md) |
 | 3/5 | Automated System Error | | |
 | 3/12 | War and Military Systems | | |
 | 3/19 | *Spring Break* | n/a | n/a |
