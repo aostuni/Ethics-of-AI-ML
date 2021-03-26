@@ -82,7 +82,7 @@ occurrence.
 | 3/5 | Automated System Error | [TED](https://www.youtube.com/watch?v=ixIoDYVfKA0), [Verdict](https://verdict.justia.com/2012/11/19/autonomous-cars-and-surgical-robots), [Fairness II Slides](FairnessII.pptx) | [Short Answer Questions](ShortAnswerQuestionsWk6.md) |
 | 3/12 | War and Military Systems | [Time](https://time.com/4948633/robots-artificial-intelligence-war/), [MilitaryReview](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2017/Pros-and-Cons-of-Autonomous-Weapons-Systems/), [Fairness III Slides](FairnessIII.pptx) | [Short Answer Questions](ShortAnswerQuestionsWk7.md) |
 | 3/19 | *Spring Break* | n/a | n/a |
-| 3/26 | Defining Intelligence and the Turing Test | [TED](https://www.youtube.com/watch?v=3wLqsRLvV-c), [What is AI?](What-is-AI.pdf) | [Short Answer Questions](ShortAnswerQuestions.md) |
+| 3/26 | Defining Intelligence and the Turing Test | [TED](https://www.youtube.com/watch?v=3wLqsRLvV-c), [What is AI?](What-is-AI.pdf), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Short Answer Questions](ShortAnswerQuestions.md) |
 | 4/2 | The Future (or End) of Labor | | |
 | 4/9 | Singularity, Control, and Unintended Consequences | | |
 | 4/16 | Inequality, Unequal Access, and Open-Sourcing | | |
