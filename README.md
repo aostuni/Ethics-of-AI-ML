@@ -84,7 +84,7 @@ occurrence.
 | 3/19 | *Spring Break* | n/a | n/a |
 | 3/26 | Defining Intelligence and the Turing Test | [TED](https://www.youtube.com/watch?v=3wLqsRLvV-c), [What is AI?](What-is-AI.pdf), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Short Answer Questions](ShortAnswerQuestions.md) |
 | 4/2 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I](<Game Theory I.pptx>) | [Short Answer Questions](ShortAnswerQuestions9.md) |
-| 4/9 | Singularity, Control, and Unintended Consequences | [Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk) | [Short Answer Questions](ShortAnswerQuestions10.md) |
+| 4/9 | Singularity, Control, and Unintended Consequences | [Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk), [Control Slides](Control.pptx) | [Short Answer Questions](ShortAnswerQuestions10.md) |
 | 4/16 | Inequality, Unequal Access, and Open-Sourcing | | |
 | 4/23 | Interaction and Affection | | |
 | 4/30 | Artificial Creativity | | |
