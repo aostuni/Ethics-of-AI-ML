@@ -85,7 +85,7 @@ occurrence.
 | 3/26 | Defining Intelligence and the Turing Test | [TED](https://www.youtube.com/watch?v=3wLqsRLvV-c), [What is AI?](What-is-AI.pdf), [Slides](<Defining Intelligence and the Turing Test.pptx>) | [Short Answer Questions](ShortAnswerQuestions.md) |
 | 4/2 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I](<Game Theory I.pptx>) | [Short Answer Questions](ShortAnswerQuestions9.md) |
 | 4/9 | Singularity, Control, and Unintended Consequences | [Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk), [Control Slides](Control.pptx) | [Short Answer Questions](ShortAnswerQuestions10.md) |
-| 4/16 | Inequality, Unequal Access, and Open-Sourcing | [Future of Life](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Futurism](https://futurism.com/ai-secret-report) | [Short Answer Questions](ShortAnswerQuestions11.md) |
+| 4/16 | Inequality, Unequal Access, and Open-Sourcing | [Future of Life](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Futurism](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Short Answer Questions](ShortAnswerQuestions11.md) |
 | 4/23 | Interaction and Affection | | |
 | 4/30 | Artificial Creativity | | |
 | 5/7 | Robot Rights | | |
