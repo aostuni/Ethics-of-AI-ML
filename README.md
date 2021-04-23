@@ -86,8 +86,8 @@ occurrence.
 | 4/2 | The Future (or End) of Labor | [Rise of the Machines](https://www.youtube.com/watch?v=WSKi8HfcxEk), [UBI](https://www.youtube.com/watch?v=kl39KHS07Xc), [Game Theory I](<Game Theory I.pptx>) | [Short Answer Questions](ShortAnswerQuestions9.md) |
 | 4/9 | Singularity, Control, and Unintended Consequences | [Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk), [Control Slides](Control.pptx) | [Short Answer Questions](ShortAnswerQuestions10.md) |
 | 4/16 | Inequality, Unequal Access, and Open-Sourcing | [Future of Life](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Futurism](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Short Answer Questions](ShortAnswerQuestions11.md) |
-| 4/23 | Interaction and Affection | [Bots for Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html?guccounter=1), [Companion Bots](https://www.wired.com/story/companion-robots-are-here/) | [Short Answer Questions](ShortAnswerQuestions12.md) |
-| 4/30 | Artificial Creativity | | |
+| 4/23 | Interaction and Affection | [Bots for Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html?guccounter=1), [Companion Bots](https://www.wired.com/story/companion-robots-are-here/), [Game Theory III Slides](<Game Theory III.pptx>) | [Short Answer Questions](ShortAnswerQuestions12.md) |
+| 4/30 | Artificial Creativity | [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY), [Creative AI](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca) | [Short Answer Questions](ShortAnswerQuestions13.md) |
 | 5/7 | Robot Rights | | |
 
 ## Communication
