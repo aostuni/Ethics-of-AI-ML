@@ -88,7 +88,7 @@ occurrence.
 | 4/16 | Inequality, Unequal Access, and Open-Sourcing | [Future of Life](https://futureoflife.org/2017/03/16/shared-prosperity-principle/?cn-reloaded=1), [Futurism](https://futurism.com/ai-secret-report), [Game Theory II Slides](<Game Theory II.pptx>) | [Short Answer Questions](ShortAnswerQuestions11.md) |
 | 4/23 | Interaction and Affection | [Bots for Elderly](https://www.engadget.com/2017-01-17-artificial-intelligence-robot-companion-for-the-elderly.html?guccounter=1), [Companion Bots](https://www.wired.com/story/companion-robots-are-here/), [Game Theory III Slides](<Game Theory III.pptx>) | [Short Answer Questions](ShortAnswerQuestions12.md) |
 | 4/30 | Artificial Creativity | [Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY), [Creative AI](https://towardsdatascience.com/can-ai-be-creative-2f84c5c73dca) | [Short Answer Questions](ShortAnswerQuestions13.md) |
-| 5/7 | Robot Rights | | |
+| 5/7 | Robot Rights | [Kurzgesagt](https://www.youtube.com/watch?v=DHyUYg8X31c), [TEDx](https://www.youtube.com/watch?v=wPK2SWC0kx0) | [Short Answer Questions](ShortAnswerQuestions15.md) |
 
 ## Communication
 The primary means of communication outside of class will be ELMS. Office hours will be scheduled by appointment. The email addresses below should only be used for important and time-sensitive issues.
