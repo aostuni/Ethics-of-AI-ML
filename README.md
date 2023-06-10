@@ -6,7 +6,7 @@
 
 (Image produced using [Deep Dream Generator](https://deepdreamgenerator.com/), a computer vision program that utilizes a convolutional neural network to recreate a picture in the style of another)
 
-**I am currently looking for talented UMD undergraduates to continue running this course. If you are interested, please contact me at aostuni [at] umd.edu.**
+** This is the webpage for a course that was taught in Spring 2020, Fall 2021, and Spring 2021. If you are a UMD undergraduate interested in running this course or a similar one, feel free to contact me at anthonyjostuni [at] gmail [.] com. **
 
 ## Course Description
 This discussion-based course will provide an introduction to the ethical issues related to artificial intelligence and machine learning. The first half of the semester will focus on concerns existing in the present day, such as bias and transparency. During the semester's second half, we will cover topics that will be increasingly important going forward, from consciousness to the future of labor.
